@@ -1,0 +1,1 @@
+Workshop hands-on readme
